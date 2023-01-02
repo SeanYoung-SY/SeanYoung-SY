@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeanYoung-SY
+- 👋 Hi, I’m @SeanYoung
 - 👀 I’m interested in CPP
 - 🌱 I’m currently learning CPP
 - 💞️ I’m looking to collaborate on ...
